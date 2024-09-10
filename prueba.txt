@@ -1,3 +1,2 @@
 prueba de github y de clonar
-mas pruebas de clonacion
-mas testing de respositorio
+tercer día de pruebas
